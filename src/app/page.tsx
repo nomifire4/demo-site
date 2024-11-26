@@ -23,10 +23,6 @@ export default function Home() {
         <Image src="/images/image.png" alt="Image" width={200} height={200} />
         <Image src="/images/image.png" alt="Image" width={200} height={200} />
       </div>
-
-    </main>
-      
-      
-      
+    </main>  
   );
 }

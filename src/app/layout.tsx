@@ -36,6 +36,9 @@ export default function RootLayout({
               <Link href="/">Home</Link>
             </li>
             <li style={{display: "inline", marginRight: "10px"}}>
+              <Link href="/charts">Charts</Link>
+            </li>
+            <li style={{display: "inline", marginRight: "10px"}}>
               <Link href="/about">About Us</Link>
             </li>
           </ul>
